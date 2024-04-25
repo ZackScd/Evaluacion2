@@ -1,0 +1,12 @@
+.dropdown-menu { 
+    background-color: #bebebe !important;
+}
+
+.card {
+    background-color: #bebebe !important;
+}
+
+.card .btn-primary {
+    background-color: #3c3c3c;
+    border-color: #3c3c3c;
+}
